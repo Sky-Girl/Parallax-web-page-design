@@ -26,15 +26,15 @@ body, html{
     */
   }
   .pimg1{
-    background-image:url('/images/sea.jpg');
+    background-image:url('images/sea.jpg');
     min-height:100%;
   }
   .pimg2{
-    background-image:url('/images/mountains.jpg');
+    background-image:url('images/mountains.jpg');
     min-height:400px;
   }
   .pimg3{
-    background-image:url('/images/waterfall.jpg');
+    background-image:url('images/waterfall.jpg');
     min-height:400px;
   }
   .section{
